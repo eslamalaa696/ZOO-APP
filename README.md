@@ -8,7 +8,7 @@ iOS Application (Swift)
 ## Screenshots
 <div>
 <img src="https://user-images.githubusercontent.com/40665527/87212065-f7ac8280-c31c-11ea-9b5b-431f913c0408.png" width= "100">
-<img src="Screen Shot 2020-07-10 at 1 32 34 AM" src="https://user-images.githubusercontent.com/40665527/87212067-f9764600-c31c-11ea-92fc-cdaadf8ab0af.png= "100">
+<img src="https://user-images.githubusercontent.com/40665527/87212067-f9764600-c31c-11ea-92fc-cdaadf8ab0af.png" width= "100">
 </div>
 
 ## Build with
